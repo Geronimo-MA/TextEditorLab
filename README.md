@@ -66,6 +66,10 @@ dotnet run
 ```bash
 dotnet publish -c Release -r win-x64 --self-contained true
 ```
+Готовый исполняемый файл будет находиться в папке:
+```bash
+bin/Release/net9.0-windows/win-x64/publish/
+```
 
 ## Скриншоты работы программы и описание интерфейса
 
@@ -167,8 +171,3 @@ dotnet publish -c Release -r win-x64 --self-contained true
 - сведения о разработчике;
 - используемые технологии;
 - год выполнения работы.
-
-Готовый исполняемый файл будет находиться в папке:
-```bash
-bin/Release/net9.0-windows/win-x64/publish/
-```
