@@ -73,7 +73,7 @@ dotnet publish -c Release -r win-x64 --self-contained true
 
 ### 1. Главное окно программы
 
-![Главное окно](Screenshots/main.png)
+![Главное окно](Screenshots/menu.png)
 
 Главное окно содержит:
 - меню программы;
